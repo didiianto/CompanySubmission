@@ -31,13 +31,19 @@ CompanySubmission adalah project ASP.NET Core 8 yang terdiri dari:
 ## 🧱 Setup Database
 
 # Masuk ke proyek API
+```bash
 cd CompanySubmission.API
+```
 
 # Tambahkan migration
+```bash
 dotnet ef migrations add InitialCreate
+```
 
 # Terapkan ke database
+```bash
 dotnet ef database update
+```
 
 
 ## 📁 Struktur Proyek
@@ -47,11 +53,13 @@ CompanySubmission/
 │
 ├── CompanySubmission.API/       # Proyek Web API (.NET 8)
 │   ├── Controllers/
+│   ├── Data/
 │   ├── Models/
 │   └── Program.cs
 │
 ├── CompanySubmission.MVC/       # Proyek ASP.NET MVC
 │   ├── Controllers/
+│   ├── Models/
 │   ├── Views/
 │   └── Program.cs
 │
