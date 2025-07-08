@@ -1,0 +1,6 @@
+@CompanySubmission.API_HostAddress = http://localhost:5256
+
+GET {{CompanySubmission.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

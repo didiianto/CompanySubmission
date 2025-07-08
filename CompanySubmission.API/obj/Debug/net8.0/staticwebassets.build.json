@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "oBTanmdXxbhlvDs0gvVRYNVNLuyaCwgnCMFsgWs66/4=",
+  "Source": "CompanySubmission.API",
+  "BasePath": "_content/CompanySubmission.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CompanySubmission.API\\wwwroot",
+      "Source": "CompanySubmission.API",
+      "ContentRoot": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\",
+      "BasePath": "_content/CompanySubmission.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\0\\uploads\\CV-Didik.pdf",
+      "SourceId": "CompanySubmission.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\",
+      "BasePath": "_content/CompanySubmission.API",
+      "RelativePath": "0/uploads/CV-Didik#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ze40mibu1",
+      "Integrity": "M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\0\\uploads\\CV-Didik.pdf"
+    },
+    {
+      "Identity": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\0\\uploads\\CV-Didik-sigma.docx",
+      "SourceId": "CompanySubmission.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\",
+      "BasePath": "_content/CompanySubmission.API",
+      "RelativePath": "0/uploads/CV-Didik-sigma#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sy2qfjnf1p",
+      "Integrity": "hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\0\\uploads\\CV-Didik-sigma.docx"
+    },
+    {
+      "Identity": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\uploads\\CV-Didik.pdf",
+      "SourceId": "CompanySubmission.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\",
+      "BasePath": "_content/CompanySubmission.API",
+      "RelativePath": "uploads/CV-Didik#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ze40mibu1",
+      "Integrity": "M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\CV-Didik.pdf"
+    },
+    {
+      "Identity": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\uploads\\CV-Didik-25-now.pdf",
+      "SourceId": "CompanySubmission.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\",
+      "BasePath": "_content/CompanySubmission.API",
+      "RelativePath": "uploads/CV-Didik-25-now#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p96e67gyn3",
+      "Integrity": "wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\CV-Didik-25-now.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "0/uploads/CV-Didik.1ze40mibu1.pdf",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\0\\uploads\\CV-Didik.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:37:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ze40mibu1"
+        },
+        {
+          "Name": "label",
+          "Value": "0/uploads/CV-Didik.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM="
+        }
+      ]
+    },
+    {
+      "Route": "0/uploads/CV-Didik.pdf",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\0\\uploads\\CV-Didik.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:37:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM="
+        }
+      ]
+    },
+    {
+      "Route": "0/uploads/CV-Didik-sigma.docx",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\0\\uploads\\CV-Didik-sigma.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:37:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps="
+        }
+      ]
+    },
+    {
+      "Route": "0/uploads/CV-Didik-sigma.sy2qfjnf1p.docx",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\0\\uploads\\CV-Didik-sigma.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:37:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sy2qfjnf1p"
+        },
+        {
+          "Name": "label",
+          "Value": "0/uploads/CV-Didik-sigma.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/CV-Didik.1ze40mibu1.pdf",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\uploads\\CV-Didik.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ze40mibu1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/CV-Didik.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/CV-Didik.pdf",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\uploads\\CV-Didik.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M+PkFj1+JyqksxHAS9b6I1j9gms+luCr572godFowOM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/CV-Didik-25-now.p96e67gyn3.pdf",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\uploads\\CV-Didik-25-now.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:29:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p96e67gyn3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/CV-Didik-25-now.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/CV-Didik-25-now.pdf",
+      "AssetFile": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.API\\wwwroot\\uploads\\CV-Didik-25-now.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132760"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Jul 2025 04:29:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc="
+        }
+      ]
+    }
+  ]
+}

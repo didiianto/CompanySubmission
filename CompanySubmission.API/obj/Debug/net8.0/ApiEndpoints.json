@@ -1,0 +1,99 @@
+[
+  {
+    "ContainingType": "CompanySubmission.API.Controllers.CompanyController",
+    "Method": "PostCompany",
+    "RelativePath": "api/Company",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CompanyName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NPWP",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DirectorName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PICName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "AllowAccessAfterClosing",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "NPWPFilePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PowerOfAttorneyFilePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "npwpFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "powerFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanySubmission.API.Controllers.CompanyController",
+    "Method": "GetAllCompany",
+    "RelativePath": "api/Company",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CompanySubmission.API.Controllers.CompanyController",
+    "Method": "GetCompanyById",
+    "RelativePath": "api/Company/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

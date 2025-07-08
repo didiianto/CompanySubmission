@@ -1,0 +1,143 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CompanySubmission.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Company": {
+      "post": {
+        "tags": [
+          "Company"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Id": {
+                    "type": "integer",
+                    "format": "int32"
+                  },
+                  "CompanyName": {
+                    "type": "string"
+                  },
+                  "NPWP": {
+                    "type": "string"
+                  },
+                  "DirectorName": {
+                    "type": "string"
+                  },
+                  "PICName": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "PhoneNumber": {
+                    "type": "string"
+                  },
+                  "AllowAccessAfterClosing": {
+                    "type": "boolean"
+                  },
+                  "NPWPFilePath": {
+                    "type": "string"
+                  },
+                  "PowerOfAttorneyFilePath": {
+                    "type": "string"
+                  },
+                  "npwpFile": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "powerFile": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Id": {
+                  "style": "form"
+                },
+                "CompanyName": {
+                  "style": "form"
+                },
+                "NPWP": {
+                  "style": "form"
+                },
+                "DirectorName": {
+                  "style": "form"
+                },
+                "PICName": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "PhoneNumber": {
+                  "style": "form"
+                },
+                "AllowAccessAfterClosing": {
+                  "style": "form"
+                },
+                "NPWPFilePath": {
+                  "style": "form"
+                },
+                "PowerOfAttorneyFilePath": {
+                  "style": "form"
+                },
+                "npwpFile": {
+                  "style": "form"
+                },
+                "powerFile": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Company"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Company/{id}": {
+      "get": {
+        "tags": [
+          "Company"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/0/uploads/CV-Didik-sigma.docx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\0\uploads\CV-Didik-sigma.docx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"70750"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.wordprocessingml.document"},{"Name":"ETag","Value":"\u0022hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:37:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/0/uploads/CV-Didik-sigma.sy2qfjnf1p.docx">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\0\uploads\CV-Didik-sigma.docx'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sy2qfjnf1p"},{"Name":"integrity","Value":"sha256-hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps="},{"Name":"label","Value":"_content/CompanySubmission.API/0/uploads/CV-Didik-sigma.docx"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70750"},{"Name":"Content-Type","Value":"application/vnd.openxmlformats-officedocument.wordprocessingml.document"},{"Name":"ETag","Value":"\u0022hFxSvYwK/OdM3RP7dFLavRgUMohkzEbth9BzWHfx9Ps=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:37:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/0/uploads/CV-Didik.1ze40mibu1.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\0\uploads\CV-Didik.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1ze40mibu1"},{"Name":"integrity","Value":"sha256-M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM="},{"Name":"label","Value":"_content/CompanySubmission.API/0/uploads/CV-Didik.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"534553"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:37:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/0/uploads/CV-Didik.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\0\uploads\CV-Didik.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"534553"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:37:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/uploads/CV-Didik-25-now.p96e67gyn3.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\CV-Didik-25-now.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p96e67gyn3"},{"Name":"integrity","Value":"sha256-wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc="},{"Name":"label","Value":"_content/CompanySubmission.API/uploads/CV-Didik-25-now.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132760"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:29:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/uploads/CV-Didik-25-now.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\CV-Didik-25-now.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"132760"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022wyZ5eGOnvYjzqHiiXw0JEzgQXTjjJS7zpZowBzUTUkc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:29:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/uploads/CV-Didik.1ze40mibu1.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\CV-Didik.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1ze40mibu1"},{"Name":"integrity","Value":"sha256-M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM="},{"Name":"label","Value":"_content/CompanySubmission.API/uploads/CV-Didik.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"534553"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:34:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CompanySubmission.API/uploads/CV-Didik.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\CV-Didik.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"534553"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022M\u002BPkFj1\u002BJyqksxHAS9b6I1j9gms\u002BluCr572godFowOM=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Jul 2025 04:34:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

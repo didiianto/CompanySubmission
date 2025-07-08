@@ -1,0 +1,613 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CompanySubmission.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CompanySubmission.MVC.uzneyg6kp3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\css\\fonts-segoeui.css",
+      "PackagePath": "staticwebassets\\css\\fonts-segoeui.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\css\\icon-ppcs.css",
+      "PackagePath": "staticwebassets\\css\\icon-ppcs.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._.DS_Store",
+      "PackagePath": "staticwebassets\\img\\._.DS_Store"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._barcode-demo.png",
+      "PackagePath": "staticwebassets\\img\\._barcode-demo.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._chart-donut.png",
+      "PackagePath": "staticwebassets\\img\\._chart-donut.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._chart-lines.png",
+      "PackagePath": "staticwebassets\\img\\._chart-lines.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._chartimg.png",
+      "PackagePath": "staticwebassets\\img\\._chartimg.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._demo-attachmentwidget.png",
+      "PackagePath": "staticwebassets\\img\\._demo-attachmentwidget.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._icon-streamline-grap.svg",
+      "PackagePath": "staticwebassets\\img\\._icon-streamline-grap.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._ilustrasi-1.svg",
+      "PackagePath": "staticwebassets\\img\\._ilustrasi-1.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._ilustrasi-compliment.png",
+      "PackagePath": "staticwebassets\\img\\._ilustrasi-compliment.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._ilustrasi-notfound.png",
+      "PackagePath": "staticwebassets\\img\\._ilustrasi-notfound.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._img_edit.svg",
+      "PackagePath": "staticwebassets\\img\\._img_edit.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._img_notif_outline.svg",
+      "PackagePath": "staticwebassets\\img\\._img_notif_outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._img_rfi.svg",
+      "PackagePath": "staticwebassets\\img\\._img_rfi.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._img_rfi_light_blue_800 (1).svg",
+      "PackagePath": "staticwebassets\\img\\._img_rfi_light_blue_800 (1).svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._img_rfi_light_blue_800.svg",
+      "PackagePath": "staticwebassets\\img\\._img_rfi_light_blue_800.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._logo-apps-large.svg",
+      "PackagePath": "staticwebassets\\img\\._logo-apps-large.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._photo1.png",
+      "PackagePath": "staticwebassets\\img\\._photo1.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._photo2.png",
+      "PackagePath": "staticwebassets\\img\\._photo2.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\._photo3.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\._photo4.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\._user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\._user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\._user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\2okeoke.png",
+      "PackagePath": "staticwebassets\\img\\2okeoke.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\AKHLAK-outline.svg",
+      "PackagePath": "staticwebassets\\img\\AKHLAK-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\AKHLAK-solid.svg",
+      "PackagePath": "staticwebassets\\img\\AKHLAK-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\EPI-outline.svg",
+      "PackagePath": "staticwebassets\\img\\EPI-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\EPI-solid.svg",
+      "PackagePath": "staticwebassets\\img\\EPI-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\barcode-demo.png",
+      "PackagePath": "staticwebassets\\img\\barcode-demo.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\calendar-outline.svg",
+      "PackagePath": "staticwebassets\\img\\calendar-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\calendar-solid.svg",
+      "PackagePath": "staticwebassets\\img\\calendar-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\chart-donut.png",
+      "PackagePath": "staticwebassets\\img\\chart-donut.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\chart-lines.png",
+      "PackagePath": "staticwebassets\\img\\chart-lines.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\chartimg.png",
+      "PackagePath": "staticwebassets\\img\\chartimg.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\demo-attachmentwidget.png",
+      "PackagePath": "staticwebassets\\img\\demo-attachmentwidget.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\disk.png",
+      "PackagePath": "staticwebassets\\img\\disk.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\header.png",
+      "PackagePath": "staticwebassets\\img\\header.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\home-outline.svg",
+      "PackagePath": "staticwebassets\\img\\home-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\home-solid.svg",
+      "PackagePath": "staticwebassets\\img\\home-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-PDF-file-solid.svg",
+      "PackagePath": "staticwebassets\\img\\icon-PDF-file-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-add-task.svg",
+      "PackagePath": "staticwebassets\\img\\icon-add-task.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-arrow-down.svg",
+      "PackagePath": "staticwebassets\\img\\icon-arrow-down.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-arrow-up-doc.svg",
+      "PackagePath": "staticwebassets\\img\\icon-arrow-up-doc.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-contract-sign.svg",
+      "PackagePath": "staticwebassets\\img\\icon-contract-sign.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-dashboard-clarification.svg",
+      "PackagePath": "staticwebassets\\img\\icon-dashboard-clarification.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-download-cloud.svg",
+      "PackagePath": "staticwebassets\\img\\icon-download-cloud.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-form-outline.svg",
+      "PackagePath": "staticwebassets\\img\\icon-form-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-inbox.svg",
+      "PackagePath": "staticwebassets\\img\\icon-inbox.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-outline-question-answer.svg",
+      "PackagePath": "staticwebassets\\img\\icon-outline-question-answer.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-outline-upload-file.svg",
+      "PackagePath": "staticwebassets\\img\\icon-outline-upload-file.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-send-outline.svg",
+      "PackagePath": "staticwebassets\\img\\icon-send-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-streamline-grap.svg",
+      "PackagePath": "staticwebassets\\img\\icon-streamline-grap.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-unread-inbox.svg",
+      "PackagePath": "staticwebassets\\img\\icon-unread-inbox.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\icon-upload-file-solid.svg",
+      "PackagePath": "staticwebassets\\img\\icon-upload-file-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\ilustrasi-1.svg",
+      "PackagePath": "staticwebassets\\img\\ilustrasi-1.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\ilustrasi-compliment.png",
+      "PackagePath": "staticwebassets\\img\\ilustrasi-compliment.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\ilustrasi-notfound.png",
+      "PackagePath": "staticwebassets\\img\\ilustrasi-notfound.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\img_edit.svg",
+      "PackagePath": "staticwebassets\\img\\img_edit.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\img_notif_outline.svg",
+      "PackagePath": "staticwebassets\\img\\img_notif_outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\img_rfi.svg",
+      "PackagePath": "staticwebassets\\img\\img_rfi.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\img_rfi_light_blue_800 (1).svg",
+      "PackagePath": "staticwebassets\\img\\img_rfi_light_blue_800 (1).svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\img_rfi_light_blue_800.svg",
+      "PackagePath": "staticwebassets\\img\\img_rfi_light_blue_800.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\kotakkotak.jpg",
+      "PackagePath": "staticwebassets\\img\\kotakkotak.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\linesna.png",
+      "PackagePath": "staticwebassets\\img\\linesna.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\logo-apps-large.svg",
+      "PackagePath": "staticwebassets\\img\\logo-apps-large.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\logo-pertamina-icon.svg",
+      "PackagePath": "staticwebassets\\img\\logo-pertamina-icon.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\okeoke2.jpg",
+      "PackagePath": "staticwebassets\\img\\okeoke2.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\operation-outline.svg",
+      "PackagePath": "staticwebassets\\img\\operation-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\operation-solid.svg",
+      "PackagePath": "staticwebassets\\img\\operation-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\secretary-outline.svg",
+      "PackagePath": "staticwebassets\\img\\secretary-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\secretary-solid.svg",
+      "PackagePath": "staticwebassets\\img\\secretary-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\send.png",
+      "PackagePath": "staticwebassets\\img\\send.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\statistic-outline.svg",
+      "PackagePath": "staticwebassets\\img\\statistic-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\statistic-solid.svg",
+      "PackagePath": "staticwebassets\\img\\statistic-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\workpackage-outline.svg",
+      "PackagePath": "staticwebassets\\img\\workpackage-outline.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\workpackage-solid.svg",
+      "PackagePath": "staticwebassets\\img\\workpackage-solid.svg"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\img\\ww.png",
+      "PackagePath": "staticwebassets\\img\\ww.png"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ProjectData\\GitHub\\CompanySubmission\\CompanySubmission.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CompanySubmission.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CompanySubmission.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CompanySubmission.MVC.props",
+      "PackagePath": "build\\CompanySubmission.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CompanySubmission.MVC.props",
+      "PackagePath": "buildMultiTargeting\\CompanySubmission.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CompanySubmission.MVC.props",
+      "PackagePath": "buildTransitive\\CompanySubmission.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
